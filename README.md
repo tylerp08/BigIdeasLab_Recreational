@@ -1,5 +1,5 @@
 # BigIdeasLab_Recreational
-Recreational Activities in Pittsburgh
+Team Name: Recreational Activities in Pittsburgh
 
 Team Members:
 
