@@ -11,4 +11,14 @@ Andrew Parkes Email: adp213@pitt.edu
 
 Datasets:
 
-Playgrounds around the Pittsburgh Area
+Playgrounds in each neighborhood around the Pittsburgh Area
+Link: 
+
+Courts and rinks in each neighborhood around the Pittsburgh Area
+Link: 
+
+Pools in each neighborhood around the Pittsburgh Area
+Link: 
+
+Overview:
+In order to find the best neighborhood in Pittsburgh for recreational sports, we used data sets about playgrounds, pools, and counrts/rinks which are displayed in individual notebooks showcasing the number of each individual playground, etc.
