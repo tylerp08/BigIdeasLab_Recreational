@@ -21,4 +21,4 @@ Pools in each neighborhood around the Pittsburgh Area
 Link: 
 
 Overview:
-In order to find the best neighborhood in Pittsburgh for recreational sports, we used data sets about playgrounds, pools, and counrts/rinks which are displayed in individual notebooks showcasing the number of each individual playground, etc.
+To determine the best neighborhood in Pittsburgh for recreational sports, we analyzed datasets on playgrounds, pools, and courts/rinks, with individual notebooks showcasing the counts for each.
