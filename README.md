@@ -1,1 +1,33 @@
 # BigIdeasLab_Recreational
+Team Name: Recreational Activities in Pittsburgh
+
+Team Members:
+
+Tyler Pierce 
+
+Email: typ22@pitt.edu 
+
+Parker Nelson 
+
+Email: pmn30@pitt.edu
+
+Andrew Parkes 
+
+Email: adp213@pitt.edu
+
+Datasets:
+
+Playgrounds in each neighborhood around the Pittsburgh Area
+
+Link: https://data.wprdc.org/datastore/dump/47350364-44a8-4d15-b6e0-5f79ddff9367
+
+Courts and rinks in each neighborhood around the Pittsburgh Area
+
+Link: https://data.wprdc.org/datastore/dump/a5b71bfa-840c-4c86-8f43-07a9ae854227
+
+Pools in each neighborhood around the Pittsburgh Area
+
+Link: https://data.wprdc.org/datastore/dump/5cc254fe-2cbd-4912-9f44-2f95f0beea9a
+
+Overview:
+To determine the best neighborhood in Pittsburgh for recreational activties, we analyzed datasets on playgrounds, pools, and courts/rinks, with individual notebooks showcasing the counts for each.
